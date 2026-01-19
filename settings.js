@@ -67,13 +67,13 @@ global.avatar = 'https://qu.ax/RYjEw.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/Hgl5fQI7UhtEj6Cr6Rpo5w?mode=ac_t'
-global.comunidad1 = 'https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR'
-global.channel = 'https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P'
-global.channel2 = 'https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P'
+global.gp1 = 'https://chat.whatsapp.com/C52diBNwTWyKL0TBCR4yKC'
+global.comunidad1 = 'https://chat.whatsapp.com/KeS0ll0m6K8BRH0aU43Nui'
+global.channel = 'https://whatsapp.com/channel/0029Vb6p1cNI1rchdlsMNi1k'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb6p1cNI1rchdlsMNi1k'
 global.md = 'https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot'
 global.correo = 'nimierdalopondre@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P';
+global.cn ='https://whatsapp.com/channel/0029Vb6p1cNI1rchdlsMNi1k';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
