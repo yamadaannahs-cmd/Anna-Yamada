@@ -51,12 +51,12 @@ global.RubyJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⏤̛̣̣̣̣̣̣̣̣̣̣̣͟͟͞͞⏤͟͟͞͞🍭 🍬ꪖꪀꪀꪖ ꪗꪖꪑꪖᦔꪖ(≧ω≦)ゞ'
+global.packname = '⏤̛̣̣̣̣̣̣̣̣̣̣̣͟͟͞͞⏤͟͟͞͞🍭 🍬ꪖꪀꪀꪖ  ꪗꪖꪑꪖᦔꪖ(≧ω≦)ゞ'
 global.botname = '🧸ྀི 🍬คՈՈค עคɱคძค🍬🧸ྀི'
 global.wm = '💖 🍬A͆n͆n͆a͆ Y͆a͆m͆a͆d͆a͆ B͆o͆t͆🍬💖'
 global.author = 'Made By 𐔌Ai Kanade ͡꒱ ۫'
 global.dev = '⌬ Modified by: Ai-Kanade ⚙️💻 '
-global.textbot = '⏤͟͞ू⃪ 𝑹𝒖𝒃𝒚-𝐻𝒐𝒔𝒉𝒊𝒏𝒐🌸⃝𖤐 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ᴰⁱᵒⁿᵉⁱᵇⁱ⁻ʳⁱᵖ'
+global.textbot = '◦•●❤♡ 🍬Äññå ¥åmåÐå ßð†🍬 ♡❤●•◦ • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 Ai Kanade'
 global.etiqueta = 'ˑ 𓈒 𐔌Ai-Kanade ͡꒱ ۫'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
